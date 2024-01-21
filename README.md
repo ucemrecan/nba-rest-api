@@ -58,7 +58,7 @@ You can use the following basic routes to interact with the API:
       "nba_titles": 3
     }
 
-- ** GET /api/division/:division: Get teams in a specific division.
+- **GET /api/division/:division: Get teams in a specific division.
 
   Response Example for Pacific:
 
@@ -75,7 +75,7 @@ You can use the following basic routes to interact with the API:
         "nba_championship": 7
     }
 
-- ** GET /api/conference/:conference: Get teams in a specific conference.
+- **GET /api/conference/:conference: Get teams in a specific conference.
 
   Response Example for Western:
 
@@ -94,7 +94,7 @@ You can use the following basic routes to interact with the API:
     // Other teams...
   ]
 
-- ** POST /api/teams: Add a new team.
+- **POST /api/teams: Add a new team.
 
   Request Body Example:
 
@@ -126,7 +126,7 @@ You can use the following basic routes to interact with the API:
     }
   ]
 
-- ** PUT /api/teams/:name: Update a team by name.
+- **PUT /api/teams/:name: Update a team by name.
 
   Request Body Example:
 
@@ -157,4 +157,4 @@ You can use the following basic routes to interact with the API:
       }
     ]
 
-- ** DELETE /api/teams/:name: Delete a team by name.
+- **DELETE /api/teams/:name: Delete a team by name.
