@@ -1,0 +1,144 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Los Angeles Lakers",
+      "founded": 1947,
+      "arena": "Crypto.com Arena",
+      "conference": "Western",
+      "division": "Pacific",
+      "city": "Los Angeles",
+      "nba_titles": 17
+    },
+    {
+      "id": 2,
+      "name": "Boston Celtics",
+      "founded": 1946,
+      "arena": "TD Garden",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "city": "Boston",
+      "nba_titles": 17
+    },
+    {
+      "id": 3,
+      "name": "Golden State Warriors",
+      "founded": 1946,
+      "arena": "Chase Center",
+      "conference": "Western",
+      "division": "Pacific",
+      "city": "San Francisco",
+      "nba_titles": 7
+    },
+    {
+      "id": 4,
+      "name": "Miami Heat",
+      "founded": 1988,
+      "arena": "AmericanAirlines Arena",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "city": "Miami",
+      "nba_titles": 3
+    },
+    {
+      "id": 5,
+      "name": "Houston Rockets",
+      "founded": 1967,
+      "arena": "Toyota Center",
+      "conference": "Western",
+      "division": "Southwest",
+      "city": "Houston",
+      "nba_titles": 2
+    },
+    {
+      "id": 6,
+      "name": "Toronto Raptors",
+      "founded": 1995,
+      "arena": "Scotiabank Arena",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "city": "Toronto",
+      "nba_titles": 1
+    },
+    {
+      "id": 7,
+      "name": "Chicago Bulls",
+      "founded": 1966,
+      "arena": "United Center",
+      "conference": "Eastern",
+      "division": "Central",
+      "city": "Chicago",
+      "nba_titles": 6
+    },
+    {
+      "id": 8,
+      "name": "Dallas Mavericks",
+      "founded": 1980,
+      "arena": "American Airlines Center",
+      "conference": "Western",
+      "division": "Southwest",
+      "city": "Dallas",
+      "nba_titles": 1
+    },
+    {
+      "id": 9,
+      "name": "Philadelphia 76ers",
+      "founded": 1946,
+      "arena": "Wells Fargo Center",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "city": "Philadelphia",
+      "nba_titles": 3
+    },
+    {
+      "id": 10,
+      "name": "Utah Jazz",
+      "founded": 1974,
+      "arena": "Vivint Arena",
+      "conference": "Western",
+      "division": "Northwest",
+      "city": "Salt Lake City",
+      "nba_titles": 0
+    },
+    {
+      "id": 11,
+      "name": "Atlanta Hawks",
+      "founded": 1946,
+      "arena": "State Farm Arena",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "city": "Atlanta",
+      "nba_titles": 1
+    },
+    {
+      "id": 12,
+      "name": "Portland Trail Blazers",
+      "founded": 1970,
+      "arena": "Moda Center",
+      "conference": "Western",
+      "division": "Northwest",
+      "city": "Portland",
+      "nba_titles": 1
+    },
+    {
+      "id": 13,
+      "name": "Indiana Pacers",
+      "founded": 1967,
+      "arena": "Bankers Life Fieldhouse",
+      "conference": "Eastern",
+      "division": "Central",
+      "city": "Indianapolis",
+      "nba_titles": 0
+    },
+    {
+      "id": 14,
+      "name": "Charlotte Hornets",
+      "founded": 1988,
+      "arena": "Spectrum Center",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "city": "Charlotte",
+      "nba_titles": 0
+    }
+  ]
+}
